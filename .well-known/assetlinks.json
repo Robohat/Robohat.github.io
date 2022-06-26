@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.robohat.runhat",
+    "sha256_cert_fingerprints":
+    ["A2:EB:56:6A:36:75:C0:6D:F6:9A:52:BE:9B:19:F9:80:91:30:1C:05:08:69:FD:42:92:C1:FF:8C:1F:93:86:00"]
+  }
+}]
